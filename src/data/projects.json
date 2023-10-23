@@ -1,34 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "title": "rateit",
+    "imageSrc": "projects/rateit.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["CSS", "Bootstrap", "Express", "JavaScript", "Handblebars", "Node", "Sequelize"],
+    "demo": "https://rateit-e0014fad4ba9.herokuapp.com/",
+    "source": "https://github.com/JimmyJr77/rateit"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "title": "Weather Dashboard",
+    "imageSrc": "projects/weatherDashboard.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["CSS", "Bootstrap", "Express", "JavaScript", "Handblebars", "Node", "Sequelize"],
+    "demo": "https://github.com/JMorante89/Weather-Dashboard-Project",
+    "source": "https://github.com/JMorante89/Weather-Dashboard-Project"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "Coding Quiz",
+    "imageSrc": "projects/codingQuiz.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["CSS", "Bootstrap", "Express", "JavaScript", "Handblebars", "Node", "Sequelize"],
+    "demo": "https://jmorante89.github.io/Coding-Quiz-Project/",
+    "source": "https://github.com/JMorante89/Coding-Quiz-Project"
   },
   {
-    "title": "Project D",
+    "title": "Libel News Reports",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["CSS", "Bootstrap", "Express", "JavaScript", "Handblebars", "Node", "Sequelize"],
+    "demo": "https://rhonvyramos.github.io/libel_news_reports/",
+    "source": "https://github.com/rhonvyramos/libel_news_reports/"
   }
 ]

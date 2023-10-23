@@ -24,7 +24,31 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  }
+  "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Handlebars",
+    "imageSrc": "skills/handlebars.png"
+  },
+  {
+    "title": "IndexedDB",
+    "imageSrc": "skills/indexedDB.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Ajax",
+    "imageSrc": "skills/ajax.png"
+  },
+  {
+    "title": "PWA",
+    "imageSrc": "skills/pwa.png"
+  } 
 ]
