@@ -25,7 +25,7 @@
   },
   {
     "title": "Libel News Reports",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/libelNews.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["CSS", "Bootstrap", "Express", "JavaScript", "Handblebars", "Node", "Sequelize"],
     "demo": "https://rhonvyramos.github.io/libel_news_reports/",
